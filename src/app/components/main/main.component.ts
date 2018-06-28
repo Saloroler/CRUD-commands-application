@@ -59,6 +59,11 @@ export class MainComponent  {
       coment: this.user.coment,
       document: this.user.document
     });
+    this.tocom.onSubmit(this.user).subscribe( user => {
+      console.log(user);
+    }, error => {
+      console.log(error);
+    });
     form.resetForm();
   }
   removeUser(i) {
@@ -78,6 +83,9 @@ export class MainComponent  {
   }
   setPost(){
     this.edit.edition = !this.edit.edition
+  }
+  addPost(){
+
   }
 
 }
