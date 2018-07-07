@@ -5,6 +5,8 @@
 2. Angular 6
 3. Bootstrap
 4. API requests : "POST"(done), "GET"(done), "DELETE"(not-complited) 
+5. Valitating forms
+6. Filter input files
 ---
 ### On back-end side was used :
 1. Node.js
@@ -31,4 +33,22 @@ Server:
 ## For remove from server and client panel i used a "Postman" 
 
 <img width="996" alt="screenshot at jul 07 17-41-52" src="https://user-images.githubusercontent.com/35704856/42412142-60cbcc2c-820f-11e8-9885-93fa851784d6.png">
+
+---
+
+## Front interaction with page
+1. Removal
+2. Editing
+3. Replying
+
+### 1.
+<img width="1111" alt="screenshot at jul 07 17-36-37" src="https://user-images.githubusercontent.com/35704856/42412204-5c2b183e-8210-11e8-8f95-2fc5a8ba5c83.png">
+ 
+### 2.
+<img width="1030" alt="screenshot at jul 07 17-37-30" src="https://user-images.githubusercontent.com/35704856/42412218-9162f076-8210-11e8-9a83-4711d2b3b1d8.png">
+
+### 3.
+<img width="1093" alt="screenshot at jul 07 17-38-12" src="https://user-images.githubusercontent.com/35704856/42412222-9fb7b27e-8210-11e8-9eb7-39c14384a026.png">
+
+
 
