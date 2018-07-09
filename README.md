@@ -1,4 +1,4 @@
-# Application allows keep cooments on klient and server side.
+# Application allows keep comments on klient and server side.
 ---
 ## On front-end side was used :
 1. HTML5/CSS3
